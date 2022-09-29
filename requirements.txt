@@ -1,0 +1,15 @@
+numpy
+torch
+alpha_vantage
+matplotlib
+sktime
+sklearn
+spyder-kernels==2.2.*
+PyQt5
+seaborn
+pmdarima
+statsforecast
+pandas
+pandas_ta
+keras
+tensorflow
